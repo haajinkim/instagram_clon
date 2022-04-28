@@ -15,8 +15,9 @@
     height: 50%;
     margin-left: 45%;
     margin-top: 20px;
+    outline: 0;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 10px;
     border: white;
 
 }
@@ -36,12 +37,19 @@
 
 }
 
+.search_icon {
+    position: absolute;
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 30px;
+    color: gray;
+}
+
 @media (max-width: 720px) {
     .head_input {
       display: None;
     }
  }
-
 @media (max-width: 720px) {
     .head_items, .head {
     display: flex;
