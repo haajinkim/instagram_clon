@@ -1,0 +1,169 @@
+.modal_wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    display: none;
+
+}
+.modal {
+    background: white;
+    width: 18%;
+    height: 35%;
+    left: 30%;
+    top: 20%;
+    border-radius: 20px;
+    display: flex;
+
+}
+.modal_open {
+    position: absolute;
+    font-size: 30px;
+    color: black;
+    border: none;
+    background-color: white;
+    margin-top: 4.3%;
+    top:15.4%;
+    left: 53%;
+    bottom: 100%;
+}
+.modal_open2 {
+    position: absolute;
+    font-size: 30px;
+    color: black;
+    border: none;
+    background-color: white;
+    top: 98%;
+    left: 53%;
+    bottom: 100%;
+
+}
+.modal_open3 {
+    position: absolute;
+    font-size: 30px;
+    color: black;
+    border: none;
+    background-color: white;
+    top: 180.5%;
+    left: 53%;
+    bottom: 100%;
+}
+
+.modal_button1 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: red;
+    font-weight: bold;
+
+
+}
+
+.modal_button2 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 1px;
+    border-left: none;
+    border-right: none;
+    color: red;
+    font-weight: bold;
+
+
+}
+
+.modal_button3 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 1px;
+    border-left: none;
+    border-right: none;
+
+
+}
+
+.modal_button4 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 1px;
+    border-left: none;
+    border-right: none;
+
+}
+
+.modal_button5 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 11px;
+    border-left: none;
+    border-right: none;
+
+
+}
+
+.modal_button6 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 1px;
+    border-left: none;
+    border-right: none;
+
+
+}
+
+.modal_button7 {
+    width: 100%;
+    height: 58px;
+    background-color: white;
+    border-bottom: 1px;
+    border-left: none;
+    border-right: none;
+
+
+}
+
+.modal_button8 {
+    width: 100%;
+    height: 59px;
+    background-color: white;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+
+.modal_open {
+    position: absolute;
+    font-size: 30px;
+    color: black;
+    border: none;
+    background-color: white;
+    top: 7.4%;
+    left: 53%;
+    bottom: 100%;
+}@media (max-width: 720px) {
+    .modal_open {
+    position: absolute;
+    font-size: 30px;
+    color: black;
+    border: none;
+    background-color: white;
+    top: 11%;
+    left: 90%;
+    }
+ }
+
+

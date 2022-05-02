@@ -3,12 +3,13 @@
     margin-left: 0;
     margin-right: 0;
 }
+
 .html {
     width: 100%;
-    height: 100%;
-    margin-top: 0;
+    margin: 0;
     padding: 0;
 }
+
 .head {
     height: 70px;
     background-color: white;
@@ -19,7 +20,7 @@
     border-top: 1px solid lightgray;
     border-bottom: 1px solid lightgray;
     position: fixed;
-    top: 0%;
+    top: 0;
     width: 100%;
     z-index: 50;
 }
@@ -27,7 +28,7 @@
 
 .head_input {
     background-color: whitesmoke;
-    width:  10%;
+    width: 10%;
     height: 50%;
     margin-left: 45%;
     margin-top: 20px;
@@ -36,9 +37,11 @@
     border-radius: 10px;
     border: white;
 }
+
 .head-regular, .cursor, .cursor_1 {
     cursor: pointer;
 }
+
 .head_items {
     margin-left: 3%;
     margin-top: 20px;
@@ -49,6 +52,7 @@
 .head-regular {
     margin-left: 15px;
 }
+
 .head, .head_input {
     display: flex;
 
@@ -62,27 +66,31 @@
     color: gray;
     cursor: text;
 
+
 }
+
 
 @media (max-width: 720px) {
     .head_input {
-      display: None;
+        display: None;
     }
- }
+}
+
 @media (max-width: 720px) {
     .head_items, .head {
-    display: flex;
-    width: 100%;
-    background-position: 0%;
+        display: flex;
+        width: 100%;
+        background-position: 0%;
 
     }
 }
+
 @media (max-width: 720px) {
     .head_items {
-    display: flex;
+        display: flex;
         justify-content: flex-end;
-    margin-top: 5%;
-    font-size: 90%;
+        margin-top: 5%;
+        font-size: 90%;
     }
 }
 

@@ -1,0 +1,313 @@
+footer. {
+    display: flex;
+   top: 50%;
+}
+
+.footer_profile {
+    width: 60px;
+    height: 60px;
+    margin-top: -120%;
+    border-radius: 70%;
+}
+.footer_profile_name {
+    margin-left: 63%;
+    margin-top: -90%;
+    font-weight: bold;
+}
+.footer_profile_name2 {
+    margin-left: 63%;
+    margin-top: -15%;
+    font-size: 13px;
+    color: gray;
+}
+
+.profile_button {
+    position: absolute;
+    top: 10%;
+    left: 67%;
+    border: none;
+    background-color: whitesmoke;
+    color: #0095ff;
+    font-size:13px;
+    font-weight: bold;
+}
+.footer_prbtn {
+    position: absolute;
+    top: 17%;
+    left: 57%;
+    border: none;
+    background-color: whitesmoke;
+    color: gray;
+    font-size:15px;
+    font-weight: bold;
+}
+.footer_prbtn2 {
+    position: absolute;
+    top: 17%;
+    left: 65.7%;
+    border: none;
+    background-color: whitesmoke;
+    color: black;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.footer_name1 {
+    position: absolute;
+    top: 20%;
+    left: 59%;
+    font-weight: bold;
+}
+
+.footer_insta1 {
+    position: absolute;
+    top: 21.5%;
+    left: 59%;
+    font-size: 13px;
+}
+
+.follow1 {
+    position: absolute;
+    top: 21.2%;
+    left: 66%;
+    border: none;
+    background-color: whitesmoke;
+    color: #0095ff;
+    font-size:13px;
+    font-weight: bold
+}
+
+.footer_name2 {
+    position: absolute;
+    top: 24.8%;
+    left: 59%;
+    font-weight: bold;
+}
+
+.footer_insta2 {
+    position: absolute;
+    top: 26.3%;
+    left: 59%;
+    font-size: 13px;
+}
+
+.follow2 {
+    position: absolute;
+    top: 26.2%;
+    left: 66%;
+    border: none;
+    background-color: whitesmoke;
+    color: #0095ff;
+    font-size:13px;
+    font-weight: bold
+}
+
+.footer_name3 {
+    position: absolute;
+    top: 29.9%;
+    left: 59%;
+    font-weight: bold;
+}
+
+.footer_insta3 {
+    position: absolute;
+    top: 31.4%;
+    left: 59%;
+    font-size: 13px;
+}
+
+.follow3 {
+    position: absolute;
+    top: 31.2%;
+    left: 66%;
+    border: none;
+    background-color: whitesmoke;
+    color: #0095ff;
+    font-size:13px;
+    font-weight: bold
+}
+
+.footer_name4 {
+    position: absolute;
+    top: 34.9%;
+    left: 59%;
+    font-weight: bold;
+}
+
+.footer_insta4 {
+    position: absolute;
+    top: 36.4%;
+    left: 59%;
+    font-size: 13px;
+}
+
+.follow4 {
+    position: absolute;
+    top: 36.1%;
+    left: 66%;
+    border: none;
+    background-color: whitesmoke;
+    color: #0095ff;
+    font-size:13px;
+    font-weight: bold
+}
+
+.footer_name5 {
+    position: absolute;
+    top: 39.9%;
+    left: 59%;
+    font-weight: bold;
+}
+
+.footer_insta5 {
+    position: absolute;
+    top: 41.4%;
+    left: 59%;
+    font-size: 13px;
+}
+
+.follow5 {
+    position: absolute;
+    top: 41.1%;
+    left: 66%;
+    border: none;
+    background-color: whitesmoke;
+    color: #0095ff;
+    font-size:13px;
+    font-weight: bold
+}
+
+.footer_text {
+    position: absolute;
+    top: 45.5%;
+    left: 57%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text2 {
+    position: absolute;
+    top: 45.5%;
+    left: 58.2%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text3 {
+    position: absolute;
+    top: 45.5%;
+    left: 59.9%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text4 {
+    position: absolute;
+    top: 45.5%;
+    left: 62.2%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text5 {
+    position: absolute;
+    top: 45.5%;
+    left: 63.2%;
+    font-size: 13px;
+    color: darkgrey;
+}
+
+.footer_text6 {
+    position: absolute;
+    top: 46.7%;
+    left: 57%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text7 {
+    position: absolute;
+    top: 46.7%;
+    left: 61.1%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text8 {
+    position: absolute;
+    top: 46.7%;
+    left: 62.2%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text9 {
+    position: absolute;
+    top: 46.7%;
+    left: 63.3%;
+    font-size: 13px;
+    color: darkgrey;
+}
+.footer_text10 {
+    position: absolute;
+    top: 46.7%;
+    left: 65.4%;
+    font-size: 13px;
+    color: darkgrey;
+    text-decoration-line: none;
+}
+.footer_text11 {
+    position: absolute;
+    top: 48%;
+    left: 57%;
+    font-size: 13px;
+    color: darkgrey;
+    text-decoration-line: none;
+}
+
+
+.footer_text_under {
+
+    position: absolute;
+    top: 50%;
+    left: 57%;
+    font-size: 13px;
+    color: gray;
+}
+
+
+
+.footer_img1 {
+    position: absolute;
+    top: 20%;
+    border-radius: 70%;
+    left: 57%;
+    width: 40px;
+    height: 40px;
+
+}
+.footer_img2 {
+    position: absolute;
+    top: 25%;
+    border-radius: 70%;
+    left: 57%;
+    width: 40px;
+    height: 40px;
+}
+.footer_img3 {
+    position: absolute;
+    top: 30%;
+    border-radius: 70%;
+    left: 57%;
+    width: 40px;
+    height: 40px;
+}
+.footer_img4 {
+  position: absolute;
+    top: 35%;
+    border-radius: 70%;
+    left: 57%;
+    width: 40px;
+    height: 40px;
+}
+.footer_img5 {
+ position: absolute;
+    top: 40%;
+    border-radius: 70%;
+    left: 57%;
+    width: 40px;
+    height: 40px;
+}
